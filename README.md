@@ -1,5 +1,5 @@
 # StartTech Kenya App
-This is tracking app for motorbikes that helps show the location for the motorbike
+This is tracking app for motorbikes it helps show the location for the motorbike.
 
 ![group-app-pages 1](https://user-images.githubusercontent.com/35792781/46616177-a5747700-cb22-11e8-913f-8a953c41e5b6.jpg)
 
