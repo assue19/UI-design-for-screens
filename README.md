@@ -12,10 +12,10 @@
 	<li>Splash screen</li>
 	<li>Login in screen</li>
 	<li>Signup screen</li>
-	<li>
-		profile screen
+	<li>profile screen</li>
 		
-	</li>
+
+	
 	
 
 </ul>
